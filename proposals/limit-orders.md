@@ -51,9 +51,20 @@ This is an R&D proposal which will result in a full technical spec of this featu
 
 - 1-2 weeks of research and spec
 
+### Estimate for next phase
+
+- Limit order contract - 2-3 weeks
+- Order execution node - 4-5 weeks
+- Javascript library - 2-3 weeks
+
+Total timeline: 2-3 months
+Cost: based on $12k/mo/eng rate
+
+**Timing to be refined during R&D phase to inform follow on proposal.**
+
 ## Price: 
 
-- 5000 sUSD
+- $5000 worth of SNX
 
 ## Ethereum Address: 
-- `tomhoward.eth`
+- 0x6da94f37BE30D9AFAD1D057477fB91860F28C457
